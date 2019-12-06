@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">fcm_sample</string>
+
+    <string name="channel_name">니코틴</string>
+    <string name="channel_description">발암물질</string>
 </resources>
